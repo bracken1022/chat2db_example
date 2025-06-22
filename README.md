@@ -106,6 +106,7 @@ Now you can use natural language prompts in Chat2DB to generate SQL!
 
 ## 📝 Notes
 
+- There is only 1 prompt can be gaven in a session, you need to open a new session to add the new prompt
 - If your MySQL runs outside Docker, use `127.0.0.1` as the host.
 - You can try other Ollama-compatible SQL models from their [model library](https://ollama.com/library).
 - For advanced control, consider adding schema context in the prompt like:
