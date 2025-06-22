@@ -65,7 +65,7 @@ ollama pull fit2cloud/chat2db-sql:7b-q8_0
 
 Then you can use the ai prompt in chat2db UI page `http://localhost:10824/workspace`
 
-
+![prompt for sql](./resources/imgs/SCR-20250622-ujor.png)
 
 
 
